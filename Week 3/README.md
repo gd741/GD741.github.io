@@ -1,4 +1,4 @@
-Password Generator Task
+## Password Generator Task ##
 Week 3 homework task involved coding a random password generator using javascript along with appropriate syntax.
 
 ## Acceptance criteria ##
